@@ -1,0 +1,12 @@
+body
+{
+    background-color:cornflowerblue;
+
+}
+
+#camera , #result
+{
+  border: 2px solid salmon;
+  width: 350px;
+  height: 300px; 
+}
